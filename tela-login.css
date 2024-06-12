@@ -27,6 +27,8 @@ button{
     border-radius: 7px;
     width: 50%;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+    transition: all linear 300ms;
 }
 button:hover{
     background-color: rgb(255, 255, 255);  
